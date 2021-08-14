@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+
+	<header>
+		<div class="container">
+		<div id="brandname">
+			ML App
+		</div>
+		<h2>Your Password analysis</h2>
+		
+	
+
+
+		
+	{% if prediction == 0 %}
+	<h2 style="color:red;">Not safe. Anyone can crack it</h2>
+	{% elif prediction == 1 %}
+	<h2 style="color:blue;">Try a more complex one</h2>
+	{% elif prediction == 2 %}
+	<h2 style="color:green;">A greate password</h2>
+	{% endif %}
+
+	</div>
+
+</body>
+</html> 
+
+
