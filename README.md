@@ -27,5 +27,10 @@ https://user-images.githubusercontent.com/80121664/138609911-ad4614f6-768d-45bc-
 ## Result (when password is 12345):
 <img src="https://user-images.githubusercontent.com/80121664/129458333-6db21b9b-9564-43ac-9654-2c76c9a7a57b.jpg" width="600" height="430">
 
+### Execution 🐉
+To run the code, type `python app.py`
 
+```
+python app.py
+```
 
