@@ -9,3 +9,5 @@ NLP model deployed in heroku---https://password-strength--nlp.herokuapp.com/
 
 ## Result (when password is 12345):
 ![result](https://user-images.githubusercontent.com/80121664/129458333-6db21b9b-9564-43ac-9654-2c76c9a7a57b.jpg)
+
+![WEB APP](25.10.2021_00.37.03_REC.mp4)
